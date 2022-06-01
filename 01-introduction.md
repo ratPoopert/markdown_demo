@@ -1,37 +1,35 @@
 # Markdown - An Introduction
 
-## Say Hello to Markdown
+## What is Markdown?
 
-### What is Markdown?
+## Why Should You Care?
 
-### Why Should You Care?
+## Basic Syntax
 
-### Basic Syntax
+### Paragraphs
 
-#### Paragraphs
+### Inline Styling
 
-#### Inline Styling
+### Headings
 
-#### Headings
+### Unordered Lists
 
-#### Unordered Lists
+### Ordered Lists
 
-#### Ordered Lists
+### Links
 
-#### Links
+### Tables
 
-#### Tables
+## Advanced Syntax
 
-### Advanced Syntax
+### Math
 
-#### Math
+### Chemistry
 
-#### Chemistry
+## Helpful Tools
 
-### Helpful Tools
+### Text Editors
 
-#### Text Editors
+### Version Control
 
-#### Version Control
-
-#### pandoc
+### pandoc
