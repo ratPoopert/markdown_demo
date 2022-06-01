@@ -51,6 +51,14 @@ You can also add a heading hierarchy with the # prefix:
 
 ### Text Editors
 
+#### Notepad
+
+#### Vim
+
+#### VS Code
+
+##### Markdown All-in-One
+
 ### Version Control
 
 ### pandoc
