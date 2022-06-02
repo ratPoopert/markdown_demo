@@ -2,7 +2,25 @@
 
 ## What is Markdown?
 
+At its core, Markdown is a markup syntax for creating consistent and beautiful documents with plain text. Think of it like the HTML that displays the content of a webpage, but in a syntax that is clean and human readable.
+
 ## Why Should You Care?
+
+### Future Proofing
+
+Microsoft Word may go away someday. Or maybe you'll just get tired of paying for your Office 365 license. In any case, the XML markup that controls the styling and layout of your .docx files is a convoluted mess that requires proprietary software to read and edit.
+
+Plain text is not going away. It powers the digital world. Keeping your documents in a plain-text format like Markdown means that even if your O365 license gets yanked, you will still be able to read your content in any plain text editor (even Notepad).
+
+### Portability
+
+An extension of the previous point, Markdown syntax is built to be converted into any document format. Want to turn your paper into a PDF? No problem! That potential employer wants to see your resume in Word? The world is your oyster!
+
+Because Markdown is a simple markup syntax, you (or a CSS-savvy friend), can create stylesheets to quickly and consistently format your documents with a personal touch. This can be carried all the way to organizational branding like colorschemes and fonts.
+
+### Simplicity
+
+Because the syntax takes only a few minutes to learn, you can get right to the meat of writing content. No more getting derailed by bullet points that aren't aligning correctly or wonky numbering. The styling comes later. Now, we write.
 
 ## Basic Syntax
 
