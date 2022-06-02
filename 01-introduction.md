@@ -82,6 +82,14 @@ No more fiddling with numbering when you're trying to get a thought onto the pag
 
 ### Links
 
+Links use a `[bracket](parentheses)` syntax:
+
+```
+Buy your aptamers at [Aptagen](https://www.aptagen.com)!
+```
+
+Buy your aptamers at [Aptagen](https://www.aptagen.com)!
+
 ### Tables
 
 ## Advanced Syntax
