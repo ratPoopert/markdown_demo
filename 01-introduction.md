@@ -114,7 +114,13 @@ And the processor will give you a table so clean you can eat off it:
 
 ### Math
 
+$y = mx + b$
+
+$e = mc^2$
+
 ### Chemistry
+
+$H_2O$
 
 ## Helpful Tools
 
