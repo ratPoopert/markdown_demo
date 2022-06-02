@@ -135,5 +135,3 @@ $H_2O$
 ##### Markdown All-in-One
 
 ### Version Control
-
-### pandoc
