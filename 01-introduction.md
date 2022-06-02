@@ -92,6 +92,24 @@ Buy your aptamers at [Aptagen](https://www.aptagen.com)!
 
 ### Tables
 
+Once again, the basic syntax doesn't care much about the spacing, so you can quickly put together a table like this to get the thought out:
+
+```
+|  | A | B | C |
+|-|-|-|-|
+| __1__ | A1 | B1 | C1 |
+| __2__ | A2 | B2 | C2 |
+| __3__ | A3 | B3 | C3 |
+```
+
+And the processor will give you a table so clean you can eat off it:
+
+|  | A | B | C |
+|-|-|-|-|
+| __1__ | A1 | B1 | [C1](clickablelink.com) |
+| __2__ | A2 | B2 | ![C2](https://cdn.iconscout.com/icon/premium/png-256-thumb/markdown-4-560096.png) |
+| __3__ | A3 | B3 | C3 |
+
 ## Advanced Syntax
 
 ### Math
