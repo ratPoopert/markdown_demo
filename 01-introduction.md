@@ -53,7 +53,32 @@ You can also add a heading hierarchy with the # prefix:
 
 ### Unordered Lists
 
+Unordered lists are just as easy:
+
+```
+* Item 1
+* Item 2
+    * Sub-item 1
+        * Sub-sub item 1
+    * Sub-item 2
+* Item 3
+```
+
 ### Ordered Lists
+
+Markdown keeps track of the numbering for you, so if you miss something the first time around, it'll still come out clean. Check this out:
+
+```
+1. Do this first
+3. Do this second
+2. Do this third
+```
+
+1. Do this first
+3. Do this second
+2. Do this third
+
+No more fiddling with numbering when you're trying to get a thought onto the page!
 
 ### Links
 
