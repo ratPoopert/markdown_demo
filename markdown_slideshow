@@ -155,3 +155,27 @@ public function get_pi() {
 }
 ```
 ---
+
+### Block Formatting
+
+##### Math
+
+```
+$$
+y = mx+b 
+$$
+```
+
+$$
+y = mx+b 
+$$
+
+#### Quote
+
+```
+> A wise man once said a very wise thing.
+```
+
+> A wise man once said a very wise thing.
+
+---
