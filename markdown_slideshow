@@ -219,3 +219,30 @@ Buy your aptamers from [Aptagen](www.aptagen.com)!
 |4|A4|B4|C4|D4|
 
 ---
+
+### Syntax Highlighting
+````
+
+```php
+class Aptagen_Oligo_Synth_Cycle {
+    public function __construct($sequence) {
+        $this->sequence = $sequence;
+        $this->bases = $this->get_bases();
+        $this->modifications = $this->get_modifications();
+    }
+}
+```
+````
+
+```php
+class Aptagen_Oligo_Synth_Cycle {
+    public function __construct($sequence) {
+        $this->sequence = $sequence;
+        $this->bases = $this->get_bases();
+        $this->modifications = $this->get_modifications();
+    }
+}
+
+```
+
+---
