@@ -91,3 +91,25 @@ Start unordered list items with a *, -, or +. Add an extra line break when you'r
 - Item 3
 
 ---
+
+### Ordered Lists
+
+Start ordered lists with a number and a period. Most Mardown processors will autocorrect the numbering if the order is off.
+
+```
+1. First item
+2. Second item
+   1. First sub-item
+   3. Skipped sub-item
+   2. Third sub-item
+3. Third item
+```
+
+1. First item
+2. Second item
+   1. First sub-item
+   3. Skipped sub-item
+   2. Third sub-item
+3. Third item
+
+---
