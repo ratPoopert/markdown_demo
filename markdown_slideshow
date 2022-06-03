@@ -2,6 +2,7 @@
 title: An Introduction to Markdown
 author: Patrick Ruppert
 marp: true
+math: katex
 ---
 
 <style>
