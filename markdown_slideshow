@@ -179,3 +179,22 @@ $$
 > A wise man once said a very wise thing.
 
 ---
+
+## Additional Syntax
+
+### Links
+
+```
+Buy your aptamers from [Aptagen](www.aptagen.com)!
+```
+
+Buy your aptamers from [Aptagen](www.aptagen.com)!
+
+### Images
+
+```
+![Aptagen Logo](https://www.aptagen.com/wp-content/uploads/Web-Logo-smc050422.png)
+```
+
+![Aptagen Logo](https://www.aptagen.com/wp-content/uploads/Web-Logo-smc050422.png)
+
