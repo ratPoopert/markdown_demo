@@ -95,7 +95,7 @@ Start unordered list items with a *, -, or +. Add an extra line break when you'r
 
 ### Ordered Lists
 
-Start ordered lists with a number and a period. Most Mardown processors will autocorrect the numbering if the order is off.
+Start ordered lists with a number and a period. Most Markdown processors will autocorrect the numbering if the order is off.
 
 ```
 1. First item
