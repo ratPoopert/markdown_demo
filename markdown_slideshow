@@ -113,3 +113,21 @@ Start ordered lists with a number and a period. Most Mardown processors will aut
 3. Third item
 
 ---
+
+### Inline Formatting
+
+```
+This text is _italicized_.
+This text is __bold__.
+This text has been ~~struck~~.
+This text is `code`.
+This text is Pi: $Π=3.14159...$ _queue Sarah_
+```
+
+This text is _italicized_.
+This text is __bold__.
+This text has been ~~struck~~.
+This text is `code`.
+This text is Pi: $Π=3.14159...$
+
+---
