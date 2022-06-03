@@ -6,12 +6,14 @@ math: katex
 ---
 
 <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
     section {
         background-color: #F5FBEF;
     }
     h1,h2,h3,h4,h5 {
         color: #048BA8;
-        font-family: 'JetBrains Mono', 'Courier New';
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
     }
     p,ol,ul,td {
         color: #252422;
