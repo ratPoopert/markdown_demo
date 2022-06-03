@@ -246,3 +246,13 @@ class Aptagen_Oligo_Synth_Cycle {
 ```
 
 ---
+
+## Version Control with Git
+
+* Track who made what changes, why, and when.
+* Multiple contributors without interference.
+* Can be centralized or decentralized.
+* Create multiple branches for any project.
+* Revert changes at any time.
+
+---
