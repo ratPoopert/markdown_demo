@@ -139,3 +139,19 @@ This text is Pi: $Π=3.14159...$
 * Quote blocks
 
 ---
+
+##### Code Blocks
+````
+```
+public function get_pi() {
+    return Sarah::pi_brain();
+}
+```
+````
+
+```
+public function get_pi() {
+    return Sarah::pi_brain();
+}
+```
+---
