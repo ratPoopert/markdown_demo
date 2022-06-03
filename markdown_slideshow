@@ -3,3 +3,16 @@ title: An Introduction to Markdown
 author: Patrick Ruppert
 marp: true
 ---
+
+<style>
+    section {
+        background-color: #F5FBEF;
+    }
+    h1,h2,h3,h4,h5 {
+        color: #048BA8;
+        font-family: 'JetBrains Mono', 'Courier New';
+    }
+    p,ol,ul,td {
+        color: #252422;
+    }
+</style>
