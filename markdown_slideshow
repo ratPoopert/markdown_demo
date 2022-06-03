@@ -80,16 +80,16 @@ Start unordered list items with a *, -, or +. Add an extra line break when you'r
 ```
 * Item 1
 * Item 2
-    + Sub-item 1
+    - Sub-item 1
     - Sub-item 2
-- Item 3
+* Item 3
 ```
 
 * Item 1
 * Item 2
-    + Sub-item 1
+    - Sub-item 1
     - Sub-item 2
-- Item 3
+* Item 3
 
 ---
 
