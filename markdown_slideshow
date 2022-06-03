@@ -55,3 +55,19 @@ Patrick Ruppert | Aptagen Webdaddy
 * Block formatting
 
 ---
+
+### Paragraphs
+
+```
+Lines written together are considered to be paragraphs.
+You can start a new line and it will be attached to the previous paragraph.
+
+Adding a blank line in between starts a new paragraph.
+```
+
+Lines written together are considered to be paragraphs.
+You can start a new line and it will be attached to the previous paragraph.
+
+Adding a blank line in between starts a new paragraph.
+
+---
