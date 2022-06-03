@@ -198,3 +198,24 @@ Buy your aptamers from [Aptagen](www.aptagen.com)!
 
 ![Aptagen Logo](https://www.aptagen.com/wp-content/uploads/Web-Logo-smc050422.png)
 
+---
+
+### Tables
+
+```
+| |A|B|C|D|
+|-|-|-|-|-|
+|1|A1|B1|C1|D1|
+|2|A2|B2|C2|D2|
+|3|A3|B3|C3|D3|
+|4|A4|B4|C4|D4|
+```
+
+| |A|B|C|D|
+|-|-|-|-|-|
+|1|A1|B1|C1|D1|
+|2|A2|B2|C2|D2|
+|3|A3|B3|C3|D3|
+|4|A4|B4|C4|D4|
+
+---
