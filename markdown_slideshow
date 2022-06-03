@@ -71,3 +71,23 @@ You can start a new line and it will be attached to the previous paragraph.
 Adding a blank line in between starts a new paragraph.
 
 ---
+
+### Unordered Lists
+
+Start unordered list items with a *, -, or +. Add an extra line break when you're done listing items.
+
+```
+* Item 1
+* Item 2
+    + Sub-item 1
+    - Sub-item 2
+- Item 3
+```
+
+* Item 1
+* Item 2
+    + Sub-item 1
+    - Sub-item 2
+- Item 3
+
+---
